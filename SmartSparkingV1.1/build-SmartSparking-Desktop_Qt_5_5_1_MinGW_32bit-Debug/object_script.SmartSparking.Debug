@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\control.o
+./debug\loginDialog.o
+./debug\setserial.o
+./debug\startshow.o
+./debug\startload.o
+./debug\paymoney.o
+./debug\moc_control.o
+./debug\moc_loginDialog.o
+./debug\moc_setserial.o
+./debug\moc_startshow.o
+./debug\moc_startload.o
+./debug\moc_paymoney.o
+);
